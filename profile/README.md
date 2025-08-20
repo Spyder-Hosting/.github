@@ -20,7 +20,7 @@
 
 **Spyder** is a next-gen, cyberpunk-inspired web hosting platform built for creators, developers, and hackers who value speed, security, and simplicity. Whether you're launching a static portfolio or a dynamic web app, Spyder makes deployment seamless and secure — like a digital ninja in the matrix.
 
-We blend retro-futuristic design with state-of-the-art cryptographic standards to protect your presence on the web, all while delivering lightning-fast performance from a sleek, minimal interface.
+We blend Y2K-flavored aesthetics with quantum-secured tech to create a hosting platform that feels like hacking in a retro-futuristic movie — minus the complications.
 
 ---
 
