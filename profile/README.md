@@ -13,30 +13,29 @@
   <br /><br />
 </p>
 
-
 ---
 
 ## ✨ About Spyder
 
-**Spyder** is a next-gen web hosting provider designed to make deploying websites as easy as tying your shoes — while staying locked down like Fort Knox.
+**Spyder** is a next-gen, cyberpunk-inspired web hosting platform built for creators, developers, and hackers who value speed, security, and simplicity. Whether you're launching a static portfolio or a dynamic web app, Spyder makes deployment seamless and secure — like a digital ninja in the matrix.
 
-We combine Y2K-flavored aesthetics with quantum-secured tech to create a hosting platform that feels like hacking in a retro-futuristic movie — minus the complications.
+We blend retro-futuristic design with state-of-the-art cryptographic standards to protect your presence on the web, all while delivering lightning-fast performance from a sleek, minimal interface.
 
 ---
 
 ## 🧠 Core Principles
 
 - 🧩 **Simplicity First**  
-  No cPanel nightmares. Just intuitive dashboards and 1-click deploys.
+  Say goodbye to bloated dashboards and clunky workflows. Spyder offers clean, intuitive interfaces and 1-click deploys.
 
 - 🕵️‍♂️ **Privacy-Centric**  
-  Quantum-secured DNSSEC and SSL baked in.
+  We take privacy seriously. DNSSEC and SSL are built in — and future-proofed with quantum resistance.
 
 - 🔐 **Security by Design**  
-  Your sites are protected with cutting-edge crypto protocols from day one.
+  Zero-trust architecture, automatic patching, and cutting-edge encryption protocols ensure your site is always locked down.
 
 - ⚡ **Speed Obsessed**  
-  From DNS resolution to CDN delivery — we optimize every byte.
+  From DNS resolution to asset delivery, everything is fine-tuned for performance — thanks to our global CDN and SSD-based infrastructure.
 
 ---
 
@@ -44,7 +43,10 @@ We combine Y2K-flavored aesthetics with quantum-secured tech to create a hosting
 
 ```txt
 ☠️  Quantum-Secured DNSSEC
-🕸️  Encrypted SSL with Post-Quantum Readiness
-🧬  Fast, global CDN distribution
-💽  SSD cloud storage w/ instant scaling
-🎛️  SpyderPanel – custom, sleek control UI
+🕸️  Encrypted SSL with Post-Quantum Readiness (Kyber + Dilithium)
+🧬  Fast, global CDN distribution (Cloudflare-backed)
+💽  SSD cloud storage with auto-scaling
+🎛️  SpyderPanel – sleek, minimal control UI
+🚀  Git-based deployment with instant rollbacks
+📦  Container-native support (Docker / OCI)
+📡  API-first design for full automation
