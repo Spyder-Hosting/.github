@@ -15,7 +15,7 @@
 
 ---
 
-## ✨ About Spyder
+## ⌨️ About Spyder
 
 **Spyder** is a next-gen, cyberpunk-inspired web hosting platform built for creators, developers, and hackers who value speed, security, and simplicity. Whether you're launching a static portfolio or a dynamic web app, Spyder makes deployment seamless and secure — like a digital ninja in the matrix.
 
@@ -50,3 +50,9 @@ We blend retro-futuristic design with state-of-the-art cryptographic standards t
 🚀  Git-based deployment with instant rollbacks
 📦  Container-native support (Docker / OCI)
 📡  API-first design for full automation
+```
+
+<p align="center">
+  <br />
+<a href="https://spy-dr.io/">spy-dr.io</a>
+</p>
