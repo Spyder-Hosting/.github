@@ -28,10 +28,10 @@ We blend retro-futuristic design with state-of-the-art cryptographic standards t
 - 🧩 **Simplicity First**  
   Say goodbye to bloated dashboards and clunky workflows. Spyder offers clean, intuitive interfaces and 1-click deploys.
 
-- 🕵️‍♂️ **Privacy-Centric**  
+- 🔐 **Security by Design**  
   We take privacy seriously. DNSSEC and SSL are built in — and future-proofed with quantum resistance.
 
-- 🔐 **Security by Design**  
+- 🕵️‍♂️ **Privacy-Centric**  
   Zero-trust architecture, automatic patching, and cutting-edge encryption protocols ensure your site is always locked down.
 
 - ⚡ **Speed Obsessed**  
