@@ -4,6 +4,7 @@
   <strong style="font-size: 32px;">SPYDER HOSTING</strong>
   <br /><br />
   <code style="font-size: 16px;">simple // secure // private</code>
+  <br /><br />
 </h1>
 
 <p align="center">
