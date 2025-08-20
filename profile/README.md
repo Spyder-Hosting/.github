@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/0x-h4x/0x-h4x/blob/main/Spyder-logo.png" width="120" alt="Spyder logo"/>
+  <img src="https://github.com/Spyder-Hosting/.github/blob/main/profile/Spyder-logo-white.png" width="120" alt="Spyder logo"/>
   <br /><br />
   <strong style="font-size: 32px;">SPYDER HOSTING</strong>
   <br /><br />
