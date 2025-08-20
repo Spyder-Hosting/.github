@@ -9,7 +9,7 @@
 
 <p align="center">
   <br />
-  🕸️ Built for the web. Engineered for the future. 🕷️<br/>
+  🕸️ Built for the current web. Engineered for the future. 🕷️<br/>
   <em>Cyber-inspired web hosting, for everyone.</em>
   <br /><br />
 </p>
