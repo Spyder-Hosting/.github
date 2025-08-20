@@ -3,7 +3,7 @@
   <br /><br />
   <strong style="font-size: 32px;">SPYDER HOSTING</strong>
   <br /><br />
-  <code style="font-size: 16px;">simple // secure // quantum-grade</code>
+  <code style="font-size: 16px;">simple // secure // private</code>
 </h1>
 
 <p align="center">
