@@ -43,7 +43,7 @@ We blend Y2K-flavored aesthetics with quantum-secured tech to create a hosting p
 ## 🛡️ Tech Stack & Features
 
 ```txt
-☠️  Quantum-Secured DNSSEC
+🔬  Quantum-Secured DNSSEC
 🕸️  Encrypted SSL with Post-Quantum Readiness (Kyber + Dilithium)
 🧬  Fast, global CDN distribution (Cloudflare-backed)
 💽  SSD cloud storage with auto-scaling
