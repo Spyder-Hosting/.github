@@ -52,6 +52,7 @@ We blend Y2K-flavored aesthetics with quantum-secured tech to create a hosting p
 📦  Container-native support (Docker / OCI)
 📡  API-first design for full automation
 ```
+##
 
 <p align="center">
   <br />
